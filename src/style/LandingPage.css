@@ -18,17 +18,24 @@
   flex-direction: column;
 }
 .title {
-  text-shadow: 2px 2px black;
+  text-shadow: 2px 2px 5px black;
 }
 .title1 {
-  text-shadow: 2px 2px white;
+  text-shadow: 2px 2px 5px white;
+}
+.textnav {
+  text-shadow: 2px 2px 5px black;
 }
 .textOp {
-  text-shadow: 2px 2px white;
+  text-shadow: 2px 2px 5px white;
 }
 .textTensura {
-  text-shadow: 2px 2px black;
+  text-shadow: 2px 2px 5px black;
 }
-.images{
+.images {
   height: 250px;
+}
+.footer {
+  text-decoration: none;
+  text-shadow: 2px 2px 5px black;
 }
