@@ -63,20 +63,3 @@ const Op = () => {
 };
 
 export default Op;
-{
-  /* <Card className="imagee bg-dark text-white border ">
-              <Image src={opImage} alt="luffy" />
-              <Card.Title className="text-center" >Monkey D Luffy</Card.Title>
-              <Card.Text className="text-center" >Kapten</Card.Text>
-            </Card>
-            <Card className="imagee bg-dark text-white border ">
-              <Image src={opImage} alt="luffy" />
-              <Card.Title className="text-center" >Monkey D Luffy</Card.Title>
-              <Card.Text className="text-center" >Kapten</Card.Text>
-            </Card>
-            <Card className="imagee bg-dark text-white border ">
-              <Image src={opImage} alt="luffy" />
-              <Card.Title className="text-center" >Monkey D Luffy</Card.Title>
-              <Card.Text className="text-center" >Kapten</Card.Text>
-            </Card> */
-}
